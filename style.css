@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(227, 201, 201);
+
+}
+.cachorro{
+    display: flex;
+    justify-content: space-around;
+}
+.card-group{
+    display: flex;
+}
+.custom-footer {
+    background-color: rgb(227, 201, 201);
+    color: black;
+    font-size: large;
+
+  }
+ .texto{
+ text-align: center;
+ }
+ #oi{
+    text-align: center;
+ }
+ a{
+text-decoration: none;
+
+ }
+ .gato{
+    height: 5rem;
+    width: 5rem;
+ }
+ 
