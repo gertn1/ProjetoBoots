@@ -4,15 +4,21 @@ body{
 }
 .cachorro{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    color: rgb(19, 19, 56);
+    border: color blue;
+   font: color blue;
+
 }
 .card-group{
     display: flex;
 }
 .custom-footer {
-    background-color: rgb(227, 201, 201);
-    color: black;
+    background-color: rgb(239, 226, 226);
+    color: rgb(22, 15, 42);
     font-size: large;
+    padding-left: 10px;
+    padding-right: 10px;
 
   }
  .texto{
@@ -28,5 +34,12 @@ text-decoration: none;
  .gato{
     height: 5rem;
     width: 5rem;
+ }
+ .container .marketing{
+    justify-content: space-around;
+ }
+
+ .row{
+     margin-top: 20px;
  }
  
